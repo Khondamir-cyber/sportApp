@@ -1,0 +1,52 @@
+@font-face {
+	font-family: 'CrosstenSoft';
+	src: url('CrosstenSoft Black.otf') format('opentype');
+	font-weight: 900;
+	/* Black */
+}
+
+@font-face {
+	font-family: 'CrosstenSoft';
+	src: url('CrosstenSoft Bold.otf') format('opentype');
+	font-weight: 700;
+	/* Bold */
+}
+
+@font-face {
+	font-family: 'CrosstenSoft';
+	src: url('CrosstenSoft Book.otf') format('opentype');
+	font-weight: 400;
+	/* Book */
+}
+
+@font-face {
+	font-family: 'CrosstenSoft';
+	src: url('CrosstenSoft Light.otf') format('opentype');
+	font-weight: 300;
+	/* Light */
+}
+
+@font-face {
+	font-family: 'CrosstenSoft';
+	src: url('CrosstenSoft Medium.otf') format('opentype');
+	font-weight: 500;
+	/* Medium */
+}
+
+@font-face {
+	font-family: 'CrosstenSoft';
+	src: url('CrosstenSoft Semibold.otf') format('opentype');
+	font-weight: 600;
+	/* Semibold */
+}
+
+@font-face {
+	font-family: 'CrosstenSoft';
+	src: url('CrosstenSoft Ultra.otf') format('opentype');
+	font-weight: 1000;
+	/* Ultra */
+}
+
+:root {
+	font-family: 'CrosstenSoft', sans-serif;
+}
